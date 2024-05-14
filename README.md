@@ -1,4 +1,4 @@
-# SkyHigh Modifications Fxmanifest Generator Beta
+# SkyHigh Modifications Fxmanifest Generator
 
 The FXManifest Generator is a tool designed to simplify the process of creating a manifest file for FiveM, a popular multiplayer modification framework for Grand Theft Auto V (GTA V). Let's break down its purpose, usage, and features:
 
