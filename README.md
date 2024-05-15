@@ -6,8 +6,6 @@ The FXManifest Generator is a tool designed to simplify the process of creating 
 - **Ease of Use:** The generator provides a user-friendly interface for inputting resource details and selecting data files.
 - **Automatic Formatting:** Developers don't need to worry about the correct syntax or formatting of the manifest file. The generator handles this automatically.
 - **Data File Selection:** It offers a list of common data files used in FiveM resource development, simplifying the process of specifying dependencies.
-- **Version Checking:** The generator includes functionality to check for updates, alerting users if a newer version is available.
-- **Light/Dark Mode:** Users can toggle between light and dark modes for better visibility and customization.
 
 ## Usage:
 - Developers input various details about their resource, such as the FX version, game name, version number, author information, and descriptions.
