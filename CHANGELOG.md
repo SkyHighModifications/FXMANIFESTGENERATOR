@@ -7,7 +7,8 @@
 - <span style="color:green; font-weight:bold;">**Added:**</span> Implemented dropdown menu for selecting FXManifest version `(Adamant, Cerulean, Bodacious)`.
 - <span style="color:green; font-weight:bold;">**Added:**</span> Added an `X` button inside the generated manifest box for easy closing.
 - <span style="color:lightblue; font-weight:bold;">**Fixed:**</span> Fixed a bug where version number wasn't displayed correctly.
-
+- <span style="color:hotpink; font-weight:bold;">**Enhanced:**</span> The entire HTML page is elevated with a captivating blue gradient backdrop for the generator, complemented by a dynamic video that spans the entire background.
+  
 #
 
 ## V1.1.0 Public
