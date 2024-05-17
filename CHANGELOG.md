@@ -2,6 +2,23 @@
  <span style="color:gray; font-weight:bold;">Vehicle FXManifest Generator Changelog</span>
  </h1>
 
+# V1.2.1 Public
+
+### <span style="color:green; font-weight:bold;">**Added:**</span> 
+>- Implemented Green, Orange, and Red box shadows for clearer update indicators: Green for `Up To Date`, Orange for `Needs Update`, and Red for `Outdated`.
+>- Implemented functionality to refresh the page upon clicking "OK" in the file downloading popup.
+>- Added a new web tab icon.
+
+### <span style="color:hotpink; font-weight:bold;">**Enhanced:**</span>
+>- Enhanced the button visibility for a more standout appearance.
+>- Darkened the background animation for a subtler effect
+>- Improved the readability of the generated manifest.
+
+### <span style="color:lightblue; font-weight:bold;">**Fixed:**</span> 
+>- Adjusted the display of alert messages to ensure the `OK` button is centered.
+  
+#
+
 # V1.2.0 Public
 
 ### <span style="color:green; font-weight:bold;">**Added:**</span> 
