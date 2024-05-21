@@ -2,6 +2,31 @@
  <span style="color:gray; font-weight:bold;">Vehicle FXManifest Generator Changelog</span>
  </h1>
 
+# V1.2.1.1 Public
+
+### **Added:**
+>- Toggle Background Button:
+  >- **Default:** Shows video with multicolor box shadow.
+  >- **1st Click:** Black background with blue box shadow.
+  >- **2nd Click:** Black background with police lights box shadow.
+  >- **3rd Click:** Shows video with police lights box shadow.
+>- YouTube video of our new video for the background
+
+### **Enhanced:**
+>- Enhanced button visibility for a more standout appearance.
+
+### **Fixed:**
+>- Adjusted the display of the generated manifest to ensure the `X` button is centered.
+
+### **Removed:**
+>- Green, Orange, and Red box shadows for clearer update indicators:
+  >- Green for `Up To Date`.
+  >- Orange for `Needs Update`.
+  >- Red for `Outdated`.
+>- Version circles.
+
+#
+
 # V1.2.1 Public
 
 ### <span style="color:green; font-weight:bold;">**Added:**</span> 
