@@ -2,6 +2,30 @@
  <span style="color:gray; font-weight:bold;">Vehicle FXManifest Generator Changelog</span>
  </h1>
 
+# V1.3.0 Public
+
+### **Added:**
+>- Added a loading screen.
+>- Added a 'Copy to Clipboard' button for seamless manifest generation.
+
+### **Enhanced:**
+>- Comprehensive overhaul of the entire HTML.
+>- Toggle button options reduced to two: static blue gradient background or video.
+>- Buttons enhancement for better visuals.
+>- Resource version must consist of numbers `(0-9)` and dots `(.)`, `e.g., 1.0.0`. **Default** is `1.0.0` but you can also proceed without specifying a resource version. 
+
+### **Fixed:**
+No bug fixes in this update.
+
+### **Removed:**
+>- Removed multicolor box shadow around the form,
+>- Eliminated unwanted code.
+
+### ***Known Bugs:***
+>- Mobile version requires further improvements; it is currently functional but contains several bugs.
+
+#
+
 # V1.2.1.1 Public
 
 ### **Added:**
