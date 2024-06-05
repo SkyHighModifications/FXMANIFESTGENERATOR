@@ -2,6 +2,16 @@
  <span style="color:gray; font-weight:bold;">Vehicle FXManifest Generator Changelog</span>
  </h1>
 
+# V1.3.1 Public
+
+### **Added:**
+>- Added a `vehicleNames.lua` tick box to add client_script to the generator, Link is provided next to this to our new generator [Vehicle Names Generator]()
+
+### ***Known Bugs:***
+>- Mobile version requires further improvements; it is currently functional but contains several bugs (WE ARE WORKING ON THIS).
+
+#
+
 # V1.3.0 Public
 
 ### **Added:**
